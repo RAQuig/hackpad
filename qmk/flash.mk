@@ -1,1 +1,0 @@
-FLASH_METHOD = uf2

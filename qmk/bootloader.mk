@@ -1,1 +1,0 @@
-BOOTLOADER = "uf2"
