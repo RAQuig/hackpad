@@ -5,3 +5,4 @@ The repository currently includes:
     --> KiCAD files (.pcb, .prl, .pro, .sch, .sch-bak)
     --> 3D Print Files (.glb, .stl)
     --> QMK Configuration Files for firmware (potentially unstable release)
+    --> The Bill of Materials (BOMCSV.csv)
