@@ -17,4 +17,5 @@ How to use: Connect the USB cable to a laptop, PC, or (hopefully) console to get
 Photos:
     PCB: ![alt text](image.png)
 
-    Schematic: ![Schematic Image](schematic.png)
+
+    Schematic: ![alt text](schematic.png)
