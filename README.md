@@ -14,8 +14,5 @@ Why: I have always wanted to create my own technology and this project is my way
 How to use: Connect the USB cable to a laptop, PC, or (hopefully) console to get three keybinds to be used how I used and a OLED screen for some stats (controller battery level, FPS, Stream stats, etc.)
 
 
-Photos:
-    PCB: ![alt text](image.png)
-
-
-    Schematic: ![alt text](schematic.png)
+PCB: ![alt text](image.png)
+Schematic: ![alt text](schematic.png)
